@@ -1,7 +1,5 @@
 # vim.config
-
-1. .vimrc 파일 내용입니다.
-
+## The following are the contents of the .vimrc
 ```
 set t_Co=256
 let g:solarized_termcolors=256
@@ -59,3 +57,7 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 ```
+## target directories
+* copy local direcotry contents to ~(user home)
+.vimrc, .vim
+* copy colors direcotry contents to /usr/share/vim/vim74/colors
