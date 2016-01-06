@@ -1,4 +1,6 @@
 # vim.config
+![desertink](http://i.imgur.com/MhZ2UFD.png)
+
 ## The following are the contents of the .vimrc
 ```
 set t_Co=256
