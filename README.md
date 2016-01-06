@@ -1,6 +1,6 @@
 # vim.config
 
-1. .vimrc
+1. .vimrc 파일 내용입니다.
 
 ```
 set t_Co=256
