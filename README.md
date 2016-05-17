@@ -61,6 +61,5 @@ filetype plugin indent on    " required
 ```
 ## target directories
 * git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-** copy local direcotry contents to ~(user home)
-.vimrc, .vim
+* copy local direcotry contents(.vimrc, .vim) to ~(user home)
 * copy colors direcotry contents to /usr/share/vim/vim74/colors
