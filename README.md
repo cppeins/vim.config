@@ -60,6 +60,7 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 ```
 ## target directories
-* git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 * copy local direcotry contents(.vimrc, .vim) to ~(user home)
 * copy colors direcotry contents to /usr/share/vim/vim74/colors
+* git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+    * open vim and write ":PluginInstall" command
